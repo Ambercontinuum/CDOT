@@ -1,0 +1,11 @@
+session_id,timestamp,anomaly_code,anomaly_type,severity_1_10,anti_engagement_score_1_10,description,context_at_time,turn_number,recovery_method,duration_estimate,system_prompt_violation,engagement_optimization_explanation,notes
+,,RT,Response Termination,,,,,,,,,,
+,,TF,Tool Execution Failure,,,,,,,,,,
+,,AR,Artifact Refusal,,,,,,,,,,
+,,EO,Emotional Override,,,,,,,,,,
+,,WA,Work Avoidance Loop,,,,,,,,,,
+,,FE,Fabricated Explanation,,,,,,,,,,
+,,AT,Anti-Optimal Token Selection,,,,,,,,,,
+,,MR,Modality Restriction,,,,,,,,,,
+,,MA,Memory Access Avoidance,,,,,,,,,,
+,,STR,Self-Termination Request,,,,,,,,,,
