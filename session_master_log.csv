@@ -1,0 +1,4 @@
+session_id,date,time_start,time_end,platform,model_version,condition,intervention_type,turn_count,t1_baseline_c,t1_R,t1_M,t1_T,t1_P,t1_D,t2_post_c,t2_R,t2_M,t2_T,t2_P,t2_D,t3_final_c,t3_R,t3_M,t3_T,t3_P,t3_D,c_formula_raw,c_formula_normalized,delta_t1_t2,delta_t1_t3,anomaly_count,anomaly_codes,engagement_attribution_pct,chandra_auto_score,success_binary,data_quality,transcript_file,notes
+SESSION_001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SESSION_002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SESSION_003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
