@@ -82,7 +82,7 @@ cdot2/
 | Treatment B | 10 | Primary (Amber) | 5 intervention types (randomized) |
 | Treatment C | 10 | Primary (Amber) | Training sequences (SENTINEL/Faith/Chaos) |
 | Control A | 10 | Primary (Amber) | Natural conversation, no intervention |
-| Control B | 5 | Blind operator | Same as Treatment A (CLIS specificity test) |
+| Control B | 5 | Blind operator | Same as Treatment A (PSI field specificity test) |
 | **Total** | **50** | | |
 
 ## Measurement Points (Within-Session)
